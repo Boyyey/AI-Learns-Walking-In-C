@@ -50,7 +50,7 @@ This will create an executable named `walking` (or `walking.exe` on Windows) in 
 Execute the compiled program:
 
 ```bash
-./walking
+./walking.exe
 ```
 
 ## ⚙️ How It Works
