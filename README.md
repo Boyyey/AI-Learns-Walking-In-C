@@ -11,10 +11,10 @@ This project is a 2D bipedal creature simulation that learns to walk using a neu
 
 ## 🖼️ Screenshots
 
+![Screenshot 2025-06-30 132142](https://github.com/user-attachments/assets/f0fbd109-3d31-433d-a53c-9827b32d834e)
 
-Screenshot 2025-06-30 132127.png
+![Screenshot 2025-06-30 132127 - Copy](https://github.com/user-attachments/assets/2721e294-1820-4254-b9a7-b0ec1cf87b05)
 
-Screenshot 2025-06-30 132142.png
 
 ## 🛠️ Building and Running
 
